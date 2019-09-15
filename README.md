@@ -5,7 +5,7 @@ Privacy policy visualization became a much more hot topic as the GDPR deadline p
 ## Implementation
 Our aim is to build a privacy tag generating website where people can come and generate a summary of their privacy policies. We will be making use if the privacy icons from Mozilla for the representation.
  
-## Symbol	## Title	## Definition
+## Symbol	 Title	 Definition
 N	 Non-Personal Information 	Data is aggregated, anonymized, or purely technical.
 P	 Personal Information	     Data is moderately sensitive and individually linkable.
 S	 Sensitive Information	    Data is highly sensitive or linkable (ex: SSN, CC#, health).
