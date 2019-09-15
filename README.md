@@ -5,22 +5,23 @@ Privacy policy visualization became a much more hot topic as the GDPR deadline p
 ## Implementation
 Our aim is to build a privacy tag generating website where people can come and generate a summary of their privacy policies. We will be making use if the privacy icons from Mozilla for the representation.
  
-## Symbol	 Title	 Definition
-N	 Non-Personal Information 	Data is aggregated, anonymized, or purely technical.
-P	 Personal Information	     Data is moderately sensitive and individually linkable.
-S	 Sensitive Information	    Data is highly sensitive or linkable (ex: SSN, CC#, health).
-E	 Encrypted	                All data transmission and storage is encrypted.
-A	 Advertising	              Data is used for advertising or marketing purposes.
-G	 Geolocation	              Location data is collected or used.
-3rd	 Third Parties	          Other entities have access to your data.
-F	 Friends' Information	     Data about your friends or social graph.
-O	 Opt-In Consent	           Whenever data is collected, you're asked for permission first.
-30	30-Day Retention	         All data is destroyed after 30 days.
-90	90-Day Retention	         All data is destroyed after 90 days.
-∞	 Unlimited Retention	      There is no schedule for the destruction of data.
+| Symbol  | Title |  Definition |
+| ------- | -------| ------- |
+| N  | Non-Personal Information  | Data is aggregated, anonymized, or purely technical.|
+| P	 | Personal Information	    | Data is moderately sensitive and individually linkable.|
+| S	 |Sensitive Information	   | Data is highly sensitive or linkable (ex: SSN, CC#, health).|
+|E	 |Encrypted	                |All data transmission and storage is encrypted.|
+|A	 |Advertising	              |Data is used for advertising or marketing purposes.|
+|G	 |Geolocation	              |Location data is collected or used.|
+|3rd	| Third Parties	        |  Other entities have access to your data.|
+|F	 |Friends' Information	    | Data about your friends or social graph.|
+|O	 |Opt-In Consent	        |   Whenever data is collected, you're asked for permission first.|
+|30	|30-Day Retention	        | All data is destroyed after 30 days.|
+|90|	90-Day Retention	        | All data is destroyed after 90 days.|
+|∞	| Unlimited Retention	     | There is no schedule for the destruction of data.|
 **Optional**		
-L	 Law Enforcement	           Data is only provided under a court order, or to prevent imminent danger to the user.
-C	 Certified	                 An independent party has certified the privacy practices of this app.
+|L	 |Law Enforcement	          |Data is only provided under a court order, or to prevent imminent danger to the user.|
+|C	 |Certified	                 |An independent party has certified the privacy practices of this app|
 
 ## Privacy tag Design
  
