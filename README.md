@@ -4,6 +4,8 @@ Privacy policy visualization became a much more hot topic as the GDPR deadline p
 
 ## Implementation
 Our aim is to build a privacy tag generating website where people can come and generate a summary of their privacy policies. We will be making use of the privacy icons from Mozilla for the representation.
+
+![Image](https://wiki.mozilla.org/images/9/96/Picons_full_set.png)
  
 | Symbol  | Title |  Definition |
 | ------- | -------| ------- |
