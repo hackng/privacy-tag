@@ -3,7 +3,7 @@ Privacy policy visualization became a much more hot topic as the GDPR deadline p
 
 
 ## Implementation
-Our aim is to build a privacy tag generating website where people can come and generate a summary of their privacy policies. We will be making use if the privacy icons from Mozilla for the representation.
+Our aim is to build a privacy tag generating website where people can come and generate a summary of their privacy policies. We will be making use of the privacy icons from Mozilla for the representation.
  
 | Symbol  | Title |  Definition |
 | ------- | -------| ------- |
@@ -27,66 +27,55 @@ Our aim is to build a privacy tag generating website where people can come and g
  
 The table above shows the final output of what the tag may look like and it will be generated after the user fills in a questionnaire on what their policies is about.
  ## The Questionnaire
-1.	Non-Personal Information 
-Will you be collecting, anonymized, or purely technical data ?
-Yes 		NO  
-Summary  Box (50 words)				Link to section
-
-2.	Personal Information	
-Will you be collecting personal data which are moderately sensitive and individually linkable for example name, address  etc. ?
-Yes 		NO  
-Summary Box (50 words)				Link to section
-
-3.	Sensitive Information	
-Will you be collecting data which are highly sensitive or linkable (ex: SSN, CC#, health).
-Yes 		NO  
-Summary Box (50 words)				Link to section
-
-4.	Encrypted (Here we need to make a not encrypted or partially encrypted icon.)
-Are All data transmission and storage is encrypted.?
-Fully 		Partially   Not Encrypted  
-Summary Box (50 words)				Link to section
-
-5.	Advertising	
-Will data collected be used for advertising or marketing purposes.?
-Fully 		Partially   	Other   NO
-Summary Box (50 words)				Link to section
-
-
-6.	Geolocation	
+#### 1.	Non-Personal Information 
+Will you be collecting anonymized, or purely technical data ?
+Yes | NO  
+Summary  Box (50 words) ----- Link to section
+#### 2.	Personal Information	
+Will you be collecting personal data which are moderately sensitive and individually linkable for example, name, address  etc. ?
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 3.	Sensitive Information	
+Will you be collecting data which are highly sensitive or linkable (ex: SSN, CC#, health)?
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 4.	Encrypted (Here we need to make a not encrypted or partially encrypted icon.)
+Are All data transmission and storage encrypted.?
+Fully | Partially | Not Encrypted  
+Summary Box (50 words) ----- Link to section
+#### 5.	Advertising	
+Will data collected be used for advertising or marketing purposes?
+Fully | Partially | Other | NO
+Summary Box (50 words) ----- Link to section
+#### 6.	Geolocation	
 Are data about user location collected or used?
-Yes 		NO  
-Summary Box (50 words)				Link to section
-
-7.	Third Parties	
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 7.	Third Parties	
 Will other entities have access to data collected? 
-Yes 		NO  
+Yes | NO  
 Select which data is shared with 3rd party. 		
-Summary Box (50 words)				Link to section
-
-8.	Friends' Information	
+Summary Box (50 words) ----- Link to section
+#### 8.	Friends' Information	
 Will the data about user’s friends or social graph be collected or used? 
-Yes 		NO  
-Summary Box (50 words)				Link to section
-
-9.	Opt-In Consent	
-Whenever data is to be collected, will users be asked for permission first.?
-Yes 		NO  
-Summary Box (50 words)				Link to section
-10.	Retention	
-How long will the data be held before it will be destroyed.?
-30 days 	 90 days	Unlimited Retention 		Other  
-Summary Box (50 words)				Link to section
-
-11.	Law Enforcement
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 9.	Opt-In Consent	
+Whenever data is to be collected, will users be asked for permission first?
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 10.	Retention	
+How long will the data be held before it will be destroyed?
+30 days | 90 days | Unlimited Retention | Other  
+Summary Box (50 words) ----- Link to section
+#### 11.	Law Enforcement
 User data is only provided under a court order, or to prevent imminent danger to the user.
-Yes 		NO  
-Summary Box (50 words)				Link to section
-12.	Certified
+Yes | NO  
+Summary Box (50 words) ----- Link to section
+#### 12.	Certified
 An independent party has certified the privacy practices of this app.
-Yes 		NO  
-Summary Box (50 words)				Link to section
-
+Yes | NO  
+Summary Box (50 words) ----- Link to section
 
 
 Answering all the questions above will be used to generate an embedded code that users can go paste on their website.
@@ -94,8 +83,6 @@ Answering all the questions above will be used to generate an embedded code that
 
 
 References
-
-
 
 
 
