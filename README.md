@@ -26,7 +26,8 @@ Our aim is to build a privacy tag generating website where people can come and g
 |C	 |Certified	                 |An independent party has certified the privacy practices of this app|
 
 ## Privacy tag Design
- 
+![Image](https://res.cloudinary.com/venuefit-com/image/upload/v1568581168/others/privacy_tag_s7rbnw.png)
+
 The table above shows the final output of what the tag may look like and it will be generated after the user fills in a questionnaire on what their policies is about.
  ## The Questionnaire
 #### 1.	Non-Personal Information 
