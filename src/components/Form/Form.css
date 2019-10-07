@@ -1,0 +1,38 @@
+main h1 {
+	text-align: center;
+	margin: 10px;
+}
+.FormSection {
+	width: 600px;
+	border:  1px solid #ddd;
+	border-radius: 5px;
+	padding: 20px;
+	box-shadow: 1px 1px 5px #ddd;
+	margin: 30px auto 30px;
+}
+.InputGroup {
+	margin: 15px 0;
+}
+.InputGroup label {
+	margin: 5px;
+}
+.InputGroup input[type=text] {
+	width: 100%;
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin: 5px 0 0;
+}
+.InputGroup input[type=text]:hover,
+.InputGroup input[type=text]:focus {
+	box-shadow: 1px 1px 5px #ddd;	
+}
+.InputGroup input[type=button] {
+	padding: 10px;
+	width: 120px;
+	background-color: lightseagreen;
+	border: 0;
+	cursor: pointer;
+}
+.InputGroup input[type=button]:hover {
+	background-color: lightgreen;
+}
