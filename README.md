@@ -87,12 +87,17 @@ Answering all the questions above will be used to generate an embedded code that
 
 References
 
+-----
+
 ## Survey-form Creation
-_NOte that this section of this file is only visible in the 'survey-form' branch in this repository_
-The form application was built with ReactJS toolchain [create-react-app](https://github.com/facebook/create-react-app)
+_Note that this section is only visible in the 'survey-form' branch in this repository_
+
+The form application was built with one of ReactJS' toolchains - [create-react-app](https://github.com/facebook/create-react-app)
 > Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
 
-**But you do not need to create a new app since once has been created already**
+**But you do not need to create a new app since one has been created already**
+
+#### To work on the form webpage,
 ### Create 'survey-form' branch and pull files
 ```shell
 git branch survey-form
@@ -117,6 +122,9 @@ git add .
 git commit -m "Your commit"
 git push -u origin survey-form
 ```
+
+-----
+
 
 ## Welcome to GitHub Pages
 
