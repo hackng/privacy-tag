@@ -14,9 +14,24 @@ main h1 {
 	margin: 15px 0;
 }
 .InputGroup label {
-	margin: 5px;
+	margin: 5px 0;
+	color: crimson;
 }
-.InputGroup input[type=text] {
+.InputGroup p {
+	margin: 10px 0 5px;
+}
+.InputGroup .Options p {
+	display: inline-block;
+	width: 200px;
+}
+.InputGroup textarea {
+	max-width: 100%;
+	min-width: 100%;
+	min-height: 30px;
+	max-height: 400px;
+	font-family: inherit;
+}
+.InputGroup input[type=text], .InputGroup textarea {
 	width: 100%;
 	border: 1px solid #ddd;
 	padding: 10px;
@@ -35,4 +50,10 @@ main h1 {
 }
 .InputGroup input[type=button]:hover {
 	background-color: lightgreen;
+}
+
+@media only screen and (max-width: 650px) {
+	.FormSection {
+		width: 90%;
+	}
 }
